@@ -39,3 +39,5 @@ Asynchronous programming allows certain operations to run in the background and 
 ### What is Event-Driven Architecture?
 
 Event-Driven Architecture is a design paradigm in which the flow of the program is determined by events such as user actions, sensor outputs, or message passing. In the context of Spring Boot, it often involves producing and consuming events that are distributed through a messaging system or event backbone like Apache Kafka, RabbitMQ, or ActiveMQ.
+
+## Next Microservices in Spring boot
